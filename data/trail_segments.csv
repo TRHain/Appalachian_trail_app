@@ -1,0 +1,13 @@
+CSV 
+
+segment_id, trail, state, miles, elevation_gain
+1, Appalachian Trail, GA, 8.8, 2500
+2, Appalachian Trail, GA, 7.3, 1800
+3, Appalachian Trail, NC, 12.1, 3200
+4, Appalachian Trail, TN, 10.5, 2100
+5, Appalachian Trail, VA, 15.2, 2900
+6, Pacific Crest Trail, CA, 11.4, 1600
+7, Pacific Crest Trail, OR, 13.8, 1200
+8, Pacific Crest Trail, WA, 9.6, 2400
+9, Continental Divide Trail, CO, 14.7, 3500
+10, Continental Divide Trail, NM, 16.3, 900
